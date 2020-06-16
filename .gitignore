@@ -243,4 +243,6 @@ Temporary Items
 # Ignore all local history of files
 .history
 
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/django,python,visualstudiocode,macos
